@@ -1,5 +1,4 @@
 {
-	"author": "Phelipe Gomes",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -9,6 +8,7 @@
 		"start": "node server.js"
 	},
 	"repository": {
+		"author": "Phelipe Gomes",
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
