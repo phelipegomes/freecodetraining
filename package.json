@@ -1,8 +1,6 @@
 {
-	"author": {
-		"name": "Phelipe Gomes"
-	},
 	"name": "fcc-learn-npm-package-json",
+	"author": "Phelipe Gomes",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
